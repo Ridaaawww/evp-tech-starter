@@ -1,23 +1,27 @@
 # EVP Tech Team Starter Repo 🚀
 
-Welcome to your first hands-on Git & GitHub sprint!
+Welcome, geniuses. Time to stop staring at screens and actually *do stuff*.  
 
 ## Objective
-Get comfortable with Git & GitHub while introducing yourself and your ideas to the team.
+Get hands-on with Git & GitHub. Introduce yourself. Ship something. Simple.  
 
-## Instructions
-1. **Fork** this repo to your own account.
-2. **Clone** it locally.
-3. Create a new file: `intro-<yourname>.md` with:
-   - Your **name**, **college**, and **role/specialty** (frontend/backend/AI/etc.)
-   - One **idea** you’d like to build at EVP
-4. **Commit** your changes and **push** to your fork.
-5. Open a **Pull Request** back to this repo.
+## Your Mission (Do it now)
+1. **Fork** this repo to your account.  
+2. **Clone** it locally.  
+3. Create a file `intro-<yourname>.md` with:  
+   - Your **name**, **college**, and **role/specialty** (frontend/backend/AI…)  
+   - One **idea** you’d actually want to build at EVP (don’t fake it)  
+4. **Commit** your changes → **Push** to your fork.  
+5. Open a **Pull Request** back here.  
 
 ## Deadline
-- 24 hours from now
+- 24 hours. No excuses.  
 
-## Why This Matters
-- This is how we’ll collaborate professionally.  
-- Your PR becomes part of our **team showcase repo**.  
-- Everyone starts practicing a **culture of action** immediately.
+## Why Bother
+- This is how we’ll actually work together.  
+- Your PR = part of our **team showcase repo**.  
+- Culture of action starts *now*, not tomorrow.  
+
+---
+
+💡 Pro Tip: If you don’t do it, someone else will outshine you. So, move fast.  
